@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clean_spa/static/css/main.073c9b0a.css",
+    "main.js": "/clean_spa/static/js/main.c4d2c783.js",
+    "index.html": "/clean_spa/index.html",
+    "main.073c9b0a.css.map": "/clean_spa/static/css/main.073c9b0a.css.map",
+    "main.c4d2c783.js.map": "/clean_spa/static/js/main.c4d2c783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c4d2c783.js"
+  ]
+}
