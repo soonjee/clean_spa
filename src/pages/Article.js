@@ -18,7 +18,6 @@ const Article = ({ content, num }) => {
                             </h2>
                     }
 
-
                     <p>
                         {content[num].con}
                     </p>

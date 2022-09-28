@@ -1,7 +1,8 @@
 import React from 'react'
 import Article from './Article';
 import Aside from './Aside';
-import '../css/Subpage.scss'
+import '../css/Subpage.scss';
+
 const Sub02 = ({ content }) => {
     const num = 1;
     return (
